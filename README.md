@@ -1,5 +1,5 @@
-# Sharod
- An online furniture store website. CSE4408 project
+# SHAROD
+CRUD based Online Furniture Shopping Platform
 
  <!-- database pass: 
 5uM]0MTWxNsz&>=#

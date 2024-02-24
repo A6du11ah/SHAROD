@@ -1,4 +1,4 @@
-# Sharod_Final
+# Sharod
  An online furniture store website. CSE4408 project
 
  <!-- database pass: 
